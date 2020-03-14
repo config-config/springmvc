@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+/poi/target/
+/springmvc01/target/
+/springmvc02/target/
+/springmvc03/target/
+/ssm/target/
